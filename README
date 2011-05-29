@@ -1,5 +1,0 @@
-Punchball is an orginal 2D arcade boxing game for iPhone.
-
-Under the hood, Punchall is using Cocos2d framework for iPhone http://www.cocos2d-iphone.org/, including Chimpunk physics engine http://code.google.com/p/chipmunk-physics/.
-
-It also implements such functions as peer-to-peer multiplayer game via Bluetooth (using iPhone's GameKit framework) as well as online leaderboards.
